@@ -1,1 +1,3 @@
 # PFCL-Lab-Undergraduate-Research
+
+This project was with the Pattern Formation and Control Lab that I pariticipated in during undergrad.  The code presented here is a robust combination of Adjoint Looping and Newton to converge to RPO solutions in the Kuramoto-Sivashinsky (KS) Equations.  The end goal of the research was to apply these JAX accelerated optimization methods to 2D Navier Stokes Equations to find RPOs and compare with experimental data.  The code presented here is preliminary testbed code that I helped develope to determine the feasibility of the Adjoint Looping + Newton methods for converging on RPOs.  
